@@ -1,0 +1,23 @@
+22
+V.Kholi 12 40 2 0 0
+ABdeVilliers 54 20 1 0 0
+C.Gayle 175 66 1 0 0 
+S.Watson 4 6 0 0 12
+Sarfaraz 43 18 1 0 0
+Y.Chahal 0 0 1 3 7
+K.Jadhav 45 22 0 0 0 
+V.Aaron 0 0 0 0 9 
+T.Mills 6 1 1 2 5 
+S.Aravind 0 0 0 0 12 
+P.Negi 20 15 1 1 9
+MS.Dhoni 93 32 3 0 0
+A.Rahane 0 1 1 0 0 
+S.Smith 37 23 2 0 0
+B.Stokes 33 18 2 3 7 
+D.Christian 20 10 1 2 9 
+I.Tahir 0 0 0 2 6
+J.Unadkat 0 0 2 3 5 
+M.Tiwary 60 45 1 0 0 
+R.Tripathi 54 20 1 0 0
+W.Sundar 20 10 1 1 12
+R.Ashwin 10 5 0 2 8
